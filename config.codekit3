@@ -72,14 +72,6 @@
 		"oAP": "/dev/content/svg-container.html",
 		"oF": 0
 		},
-	"/dev/content/svg/graphic.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dev/content/svg/graphic.html",
-		"oF": 0
-		},
 	"/dev/global/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
